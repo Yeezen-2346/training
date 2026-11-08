@@ -1,0 +1,19 @@
+
+========== Stage 4 Balance Test ==========
+
+IMU samples: 46671
+Simulation duration: 31.498 s
+
+Overall max |Pitch|: 3.4632 deg
+Overall mean |Pitch|: 0.1196 deg
+
+First 5 seconds:
+Duration: 5.0016 s
+Maximum |Pitch|: 3.4632 deg
+Maximum sample gap: 0.003277 s
+
+Requirement: >= 5 s and |Pitch| < 10 deg
+
+RESULT: PASS
+
+==========================================
