@@ -173,15 +173,6 @@ ros2 bag record -o balance_stage4 \
 
 `~/wheel_leg_results/balance_stage4/`
 
-提交前需补充可访问的录制文件链接。
 
-## 9. 项目状态
 
-- [x] ROS2 独立控制器节点
-- [x] IMU 和 JointState 数据接收
-- [x] 执行器力矩发布
-- [x] VMC + LQR 平衡控制
-- [x] 阶段 4 平衡验收
-- [x] Pitch 曲线和验收报告
-- [ ] ROS bag 外部访问链接
 - [ ] 最终 Git 提交
