@@ -173,6 +173,3 @@ ros2 bag record -o balance_stage4 \
 
 `~/wheel_leg_results/balance_stage4/`
 
-
-
-- [ ] 最终 Git 提交
