@@ -206,3 +206,8 @@ x=[\theta,\dot{\theta},x_b-x_{b,set},v_b-v_{set},\phi,\dot{\phi}]^T
 ## 阶段五
 ### 录制
 /home/venom-chenyizhen/venom_cpp_basics/training/02-ros2-wheelleg/Tutorial/ros2_ws/src/wheel_leg_controller/evidence/stage5_velocity/stage5_0p3ms_drive.mp4
+
+
+https://github.com/user-attachments/assets/60d6fde3-ccec-442c-9c08-27fcd1451afe
+
+
